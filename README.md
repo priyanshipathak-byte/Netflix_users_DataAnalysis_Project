@@ -1,5 +1,6 @@
 # Netflix_users_DataAnalysis_Project
 📊 Netflix User Data Analysis Project
+
 This project explores Netflix user data to uncover insights related to demographics, device preferences, watch time, and content categories. The analysis was performed using SQL for data querying and Excel for visualization and dashboard creation.
 
 🔧 Tools & Technologies
