@@ -9,6 +9,7 @@ SQL – For filtering, aggregating, and preparing the dataset
 Microsoft Excel – For data cleaning, analysis, and dashboard development
 
 📁 Dataset Overview
+
 The dataset contains the following attributes:
 
 User ID
@@ -24,6 +25,7 @@ Time Spent (hrs)
 🔹 Note: This is a mock dataset created for learning and portfolio purposes.
 
 🧠 Key Questions Explored
+
 What are the most-used streaming devices?
 
 Which content categories are most popular among users?
@@ -33,6 +35,7 @@ How does watch time vary by age group and gender?
 Which countries have the highest number of users?
 
 📊 Dashboard Insights
+
 The Excel dashboard includes:
 
 📌 Gender-wise distribution
@@ -48,5 +51,6 @@ The Excel dashboard includes:
 Interactive slicers and filters allow users to explore insights dynamically.
 
 📌 About the Project
+
 This project highlights core data analysis skills using SQL and Excel. It demonstrates the process of transforming raw data into meaningful visual insights through clear and interactive dashboards.
 
