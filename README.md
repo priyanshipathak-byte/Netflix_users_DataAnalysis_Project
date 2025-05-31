@@ -12,21 +12,13 @@ Microsoft Excel – For data cleaning, analysis, and dashboard development
 The dataset contains the following attributes:
 
 User ID
-
 Name
-
 Gender
-
 Country
-
 Age
-
 Plan Duration (Months)
-
 Device Used
-
 Category Watched Most
-
 Time Spent (hrs)
 
 🔹 Note: This is a mock dataset created for learning and portfolio purposes.
